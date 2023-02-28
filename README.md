@@ -15,6 +15,7 @@
 - 라이센스 정보 (저작물의 수정 배포에 대한 권한이나 저작권들에 대한 조항들) - 후기
 
 - 커밋 컨벤션
+   참조 사이트 https://ileriayo.github.io/markdown-badges/
   * Feat	            : 새로운 기능을 추가할 경우
   * Fix	             : 버그를 고친 경우
   * Design          	: CSS 등 사용자 UI 디자인 변경
