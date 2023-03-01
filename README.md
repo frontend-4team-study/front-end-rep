@@ -1,5 +1,5 @@
 # 깃 허브 협업 엽습(프로젝트명)
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
 
 ### 오가나이제이션 협업 연습으로 조원 모두 협업 연습이 가능하도록 만든 프로젝트입니다.(프로젝트 개요 및 설명)
 
